@@ -1,0 +1,2 @@
+# cookieclickerformac
+cookie clicker
